@@ -1,5 +1,10 @@
 # Study
 
+## Contents
+roc curve explanation
+http://arogozhnikov.github.io/2015/10/05/roc-curve.html
+
+
 ## Paper 
 http://deeplearn.org/
 
